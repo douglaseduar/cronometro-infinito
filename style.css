@@ -1,0 +1,26 @@
+form{
+    text-align-last: center;
+    font-size: 40pt;
+    margin-top: 20vh;
+    font-weight: 700;
+}
+button {
+    border: solid 2px green;
+    padding: 2px 26px;
+    border-radius: 300px!important;
+    color: green;
+    background: none;
+    box-shadow: 2px 3px;
+    font-size: 20pt!important;
+}
+button:last-child{
+    color: orange;
+    border: solid 2px orange;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: 600!important;
+    margin-top: 80px!important;
+
+}
